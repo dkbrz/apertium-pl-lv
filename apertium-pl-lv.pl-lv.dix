@@ -1,0 +1,58 @@
+<dictionary>
+  <alphabet>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="f"/>
+    <sdef n="m"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <e><p><l>alergia<s n="n"/><s n="f"/></l><r>alerģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>antropoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>arheoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astrologia<s n="n"/><s n="f"/></l><r>astroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autobiografia<s n="n"/><s n="f"/></l><r>autobiogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bakteriologia<s n="n"/><s n="f"/></l><r>bakterioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bibliografia<s n="n"/><s n="f"/></l><r>bibliogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biografia<s n="n"/><s n="f"/></l><r>biogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biologia<s n="n"/><s n="f"/></l><r>bioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chirurgia<s n="n"/><s n="f"/></l><r>ķirurģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chronologia<s n="n"/><s n="f"/></l><r>hronoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekologia<s n="n"/><s n="f"/></l><r>ekoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elegia<s n="n"/><s n="f"/></l><r>elēģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>embriologia<s n="n"/><s n="f"/></l><r>embrioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>energia<s n="n"/><s n="f"/></l><r>enerģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etnografia<s n="n"/><s n="f"/></l><r>etnogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etnologia<s n="n"/><s n="f"/></l><r>etnoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etymologia<s n="n"/><s n="f"/></l><r>etimoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filozofia<s n="n"/><s n="f"/></l><r>filozofija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fotografia<s n="n"/><s n="f"/></l><r>fotogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>genealogia<s n="n"/><s n="f"/></l><r>ģenealoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geografia<s n="n"/><s n="f"/></l><r>ģeogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geologia<s n="n"/><s n="f"/></l><r>ģeoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ginekologia<s n="n"/><s n="f"/></l><r>ginekoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hydrologia<s n="n"/><s n="f"/></l><r>hidroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kaligrafia<s n="n"/><s n="f"/></l><r>kaligrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kartografia<s n="n"/><s n="f"/></l><r>kartogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>krystalografia<s n="n"/><s n="f"/></l><r>kristalogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>litografia<s n="n"/><s n="f"/></l><r>litogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meteorologia<s n="n"/><s n="f"/></l><r>meteoroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mikrobiologia<s n="n"/><s n="f"/></l><r>mikrobioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mineralogia<s n="n"/><s n="f"/></l><r>mineraloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mitologia<s n="n"/><s n="f"/></l><r>mitoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oceanografia<s n="n"/><s n="f"/></l><r>okeanogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orgia<s n="n"/><s n="f"/></l><r>orģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ornitologia<s n="n"/><s n="f"/></l><r>ornitoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>patologia<s n="n"/><s n="f"/></l><r>patoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pornografia<s n="n"/><s n="f"/></l><r>pornogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>psychologia<s n="n"/><s n="f"/></l><r>psiholoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religia<s n="n"/><s n="f"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>socjologia<s n="n"/><s n="f"/></l><r>socioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stenografia<s n="n"/><s n="f"/></l><r>stenogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strategia<s n="n"/><s n="f"/></l><r>stratēģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>technologia<s n="n"/><s n="f"/></l><r>tehnoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teologia<s n="n"/><s n="f"/></l><r>teoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terminologia<s n="n"/><s n="f"/></l><r>terminoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>zooloģija<s n="n"/><s n="f"/></r></p></e>
+  </section>
+</dictionary>
+
